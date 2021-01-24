@@ -4,6 +4,7 @@ Table of Contents
 =================
 
    * [README](#readme)
+      * [About](#about)
       * [Part X: Neural Networks](#part-x-neural-networks)
       * [Dependencies:](#dependencies)
          * [Python](#python)
@@ -38,6 +39,8 @@ Table of Contents
          * [Potential Errors and Solutions](#potential-errors-and-solutions)
       * [Contact](#contact)
 
+## About
+Feel free to use this repository as a reference (e.g., for correctness verification or as an inspiration), but please do not submit copies the code provided here as homework solutions for a later edition of UCI CS 253 -- you won't learn anything from doing so, and you will most likely get caught.
 
 
 ## Part X: Neural Networks
